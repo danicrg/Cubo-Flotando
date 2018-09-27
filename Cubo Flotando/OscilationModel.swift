@@ -26,7 +26,7 @@ class OscilationModel{
     // Velocidad inicial de la masa
     private let v0 = 0.0
     
-    // Ctes intermedias
+    // Constantes intermedias
     private var waterDensity = 1.0
     private var cubeDensity = 1.0/2
     private var mass = 500.0
